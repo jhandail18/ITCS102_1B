@@ -18,5 +18,3 @@ while step is True:
             print(f"number of steps, {trial}")
             break
         
-    else:
-        print("Invalid Input.")
